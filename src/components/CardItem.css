@@ -1,0 +1,17 @@
+.card-container {
+  display: flex;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 220px;
+  height: 187px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.profile-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 9999px;
+}
